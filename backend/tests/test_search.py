@@ -268,8 +268,9 @@ class SearchTests(unittest.TestCase):
             self.assertEqual(indexing.result(timeout=10).status_code, 200)
             found = waiting.result(timeout=10).json()
             self.assertEqual(found["results"][0]["file_path"], "35.cs")
-            # One matching chunk does not make its whole centroid a close match.
-            self.assertTrue(found["low_confidence"])
+            # Iterative clustering separates the new direction from the identical old batch.
+            self.assertFalse(found["low_confidence"])
+            self.assertAlmostEqual(found["groups"][0]["distance"], 0.0)
 
     def test_failure_stops_search_waiting(self):
         self.backend.client.embeddings.create.side_effect = RuntimeError("API unavailable")

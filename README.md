@@ -1,75 +1,67 @@
-pip install -r requirements.txt
+![Lavender code editor and agent workspace](assets/lavender-editor.png)
 
-icons from icon-icons.com, svgrepo.com,
+# Lavender
 
-## Chat models and API keys
+Lavender is a Windows code editor and AI agent workspace for C# and Unity projects, built with WPF and .NET.
 
-The chat composer has a model dropdown: GPT-4.1 mini, GPT-5, GPT-6 Sol (the startup
-default), GPT-6.1 Sol, GPT-6 Luna, and GPT-6 Astra. The choice applies to the next
-message and keeps the current conversation and attached project files. Enter sends;
-Shift+Enter adds a line.
-The arrow becomes a stop button during a response. Use + to add project files.
-User messages use compact, right-aligned solid-color bubbles capped at 70% of the
-chat width. Assistant replies render common Markdown (including bold, italics,
-headings, lists, and code) and LaTeX math (`$...$`, `\(...\)`, `$$...$$`,
-and `\[...\]`) without a bubble. Invalid or unfinished math remains visible
-as source text. Assistant replies reveal one character at a time; adjust
-ReplyCharacterIntervalMs in MainWindow.xaml.cs to change the pace. On the Chat
-Completions path, a direct answer makes an additional final-answer request
-after the agent's tool-decision request.
+## Features
 
-Click the model name in the composer to open the model list. Choosing a model with
-adjustable reasoning changes the menu to a vertical list of reasoning levels;
-choose a level to close it, or go back to the model list. Each model remembers its
-reasoning selection for the current app session. The menu is locked during a response.
-The selected level appears in gray beside the white model name; None leaves it blank. GPT-5 offers
-Default, Minimal, Low, Medium, and High. GPT-6 Sol/Luna offer Default, None,
-Low, Medium, High, XHigh, and Max; GPT-6 Astra and GPT-6.1 Sol offer the same
-choices except None. Default omits the API parameter. GPT-4.1 mini has no
-adjustable reasoning. Hover over a model choice for its reasoning hint.
-The context and Clear files row appears only while files are attached to the chat.
+- **Project-aware AI chat:** attach project files, switch configured models and reasoning levels, and follow tool activity as the agent works.
+- **Code search and understanding:** Roslyn-based project analysis and semantic search help the agent find relevant code across a project.
+- **Agent editing tools:** read and edit project files through integrated tools, with access to project and Git context.
+- **Saved conversations:** project-specific chats, persistent history, and summaries of older discussion.
+- **Unity integration:** inspect scenes, objects, components, assets, and diagnostics; create objects and modify supported properties through the optional Unity bridge.
 
-`AgentModelOption.ReasoningEffort` is a nullable `ReasoningEffort` enum with None,
-Minimal, Low, Medium, High, XHigh, and Max. Configuration keeps readable strings
-such as `"ReasoningEffort": "medium"`; omit the property or use null for Default.
-Unknown values, numbers, and levels incompatible with the model are rejected.
-New model IDs need an allowed-level mapping in `AgentModelOption` before their
-reasoning choices appear.
+## Running locally
 
-All configured models use `OPENAI_API_KEY` by default. OpenAI keys belong to a project,
-not an individual model: your existing key can be used for any model that project
-can access, with API billing enabled. No new key is needed just to switch models.
+### Requirements
 
-To set or replace the key on Windows:
+- Windows with the .NET 8 SDK.
+- Python 3.13 (the version used by the current development environment).
+- An OpenAI API key with access to the models you configure.
 
-1. Create a key in the [OpenAI API dashboard](https://platform.openai.com/api-keys).
-2. Open **Edit environment variables for your account** from the Start menu.
-3. Under **User variables**, create or edit `OPENAI_API_KEY` and paste the key as its value.
-4. Fully close and reopen Lavender. If launching from Visual Studio or a terminal,
-   restart that application too so it receives the updated environment.
+### Setup
 
-Never put the actual key in `appsettings.json` or commit it to source control.
+Clone or download the repository, then open PowerShell in the folder containing `Lavender.csproj`.
 
-### Separate keys or different model IDs
+1. Create the Python environment and install the backend dependencies:
 
-Edit `Agent.Models` in `appsettings.json`. Each entry has a display `Label`, the
-exact API model `Id`, and an `ApiKeyEnvironmentVariable` naming the variable to read.
-For separate credentials, create user environment variables `OPENAI_API_KEY_GPT5`
-and `OPENAI_API_KEY_GPT6` using the steps above, then set those names on the
-corresponding model entries. The variable name is not the secret key itself.
+   ```powershell
+   py -3.13 -m venv .venv
+   .\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt
+   ```
 
-`Agent.Model` sets the startup default and must match an entry's `Id`. Rebuild after
-editing the source configuration, or edit `appsettings.json` beside the deployed
-executable and restart. The dropdown selection lasts for the current app session.
+2. Set your API key for the current terminal session:
 
-Lavender uses the Responses API for GPT-6 agent turns and Chat Completions for
-GPT-5 and GPT-4.1 mini. GPT-6 requests set `store: false` and replay returned
-reasoning and tool items within the turn. The default GPT-6 Sol configuration
-still selects None; choose another level from the menu when needed.
+   ```powershell
+   $env:OPENAI_API_KEY = "your-api-key"
+   ```
 
-A missing-key message names the environment variable to set. A model-access error
-requires checking the exact model ID, project permissions, and API billing in your
-OpenAI account; a new key alone does not enable a model.
+   To keep it across sessions, add `OPENAI_API_KEY` to your Windows user environment variables.
 
-References: [API authentication](https://developers.openai.com/api/reference/overview),
-[GPT-6 compatibility](https://developers.openai.com/api/docs/guides/latest-model).
+3. Review `Agent.Models` in `appsettings.json` and choose model IDs your API account can access. In this public facing repository only OpenAI models were used.
+
+4. Restore and launch the application:
+
+   ```powershell
+   dotnet restore Lavender.sln
+   dotnet run --project Lavender.csproj
+   ```
+
+   Alternatively, open `Lavender.sln` in Visual Studio and run the Lavender project.
+
+### Optional Unity setup
+
+Copy the contents of `integrations/unity/Bridge/` into your Unity project's `Assets/Editor/LavenderBridge/` folder, keeping the `.asmdef` alongside the C# files. Open the same project in Unity and Lavender, and let Unity finish compiling the bridge.
+
+See [Unity tools](docs/unity-tools.md) for installation details and supported operations, and [Unity navigation](docs/unity-navigation.md) for opening scripts in Lavender from Unity.
+
+## Work in progress
+
+Lavender is still being actively worked on. I'm focusing on making the agent more efficient in terms of its API calls, as well as improving how it plans and reasons about tasks through implementing both chain of thought, and tree of thought.
+
+Then, my next milestone for Lavender is to allow the user to develop games through a seperate graph interface in which the agent defines tasks into Node objects which depend on eachother, that the user can configure and edit in real time as the agent is working.
+
+## Credits
+
+Icons from [icon-icons.com](https://icon-icons.com/) and [SVG Repo](https://www.svgrepo.com/).

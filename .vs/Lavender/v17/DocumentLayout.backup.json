@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\tools\\api_usage_summary.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|solutionrelative:tools\\api_usage_summary.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\findsymbolstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\findsymbolstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\writelinestool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\writelinestool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\createfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\createfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\deletefiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\deletefiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\integrations\\unity\\bridge\\unityscenecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|solutionrelative:integrations\\unity\\bridge\\unityscenecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\lavendermcpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\lavendermcpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\createfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\createfiletool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\applyeditstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +129,6 @@
       "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\filetoolexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\editing\\writelinestool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\editing\\writelinestool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\gittools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\gittools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -163,10 +175,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\lavender.mcpserver\\tools\\findsymbolstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4856DEF-CD5B-4C8F-806F-9A0ABA31F5E7}|Lavender.McpServer\\Lavender.McpServer.csproj|solutionrelative:lavender.mcpserver\\tools\\findsymbolstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A478C2B-07D6-4FDC-BE22-07A1B6CD5F8E}|Lavender.csproj|c:\\users\\nicks\\onedrive\\desktop\\lavender\\lavender\\testprompt1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -253,58 +261,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "api_usage_summary.py",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\tools\\api_usage_summary.py",
+              "RelativeDocumentMoniker": "tools\\api_usage_summary.py",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\tools\\api_usage_summary.py",
+              "RelativeToolTip": "tools\\api_usage_summary.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPrZS9T1tnFMZ/1/cLGxy7BNuJIeCG2hIiSSWqRmmR8Fh16lhVVVTRIR34Ezo2kSqUqUJeKkHLEqlDWZAyUJZEoUNaoTatXEgsQykGFFyw8de997337RA5MeYqUx/pDOc55zx6znmlF/5PSCmVzjybzX4/NTV1U9f1TvoUKpWKrFard5aXl\u002B/u7e1Vu\u002BtaNzE9PU0ikeimX2J1dVUWi8UvVFWVKysr3xQKhXJn/YwgQKFQ6KZQVZVUKoWu64FsNhtNp9O3LMsKapo2u7Gxcdju8xVMJpPdFIry6jqGYeiTk5MDuq5/IqW0hBBfFwqFOkCgc6gNwzDORPuuqqqytLTE3Nycura2diEUCk2Yphlvz/o63Nzc7KbQNI10Os27N95n4vp7aAGFZv3Emp\u002Bf//tUX2fSxtjYWDdFzRL8lD9kv9qk2bTRA3AxrGoXh4b7A4FXi/oK\u002Bjm0\u002BpI8269xUKnz\u002BOk\u002BwrGJ9Rn6R\u002BNDI/F4vK/d53vDVCp1JioNwaONPfI7ZTzh4AmXaq2hNEQgGA6HQ\u002B1ZX0EA13VxUfjrucO9xwf8tl3m2qUoE6l\u002BzvfqCOEghCAWrV9d\u002Bu7mz17zjyee5w37rry1tQXAbkvnxycn7JZPEMLGdRyE4\u002BA6Np7r4CkKhvIcmuvQWh8n9uWsr8NMJkMmk6Ehezg4riGEg\u002BcINDwiQY1ISCca0nk7FeJasgpuE6x/wN75wNdhPp8HYGe3iWXZeEIw3K8xk20SVI\u002BR0gPpETWOGAwegGi8EHWPI691ODKYwAiAEA63sgbvXPiV8dgzrsQLXBnIM9RbRBH/gqiBWwc9eeQraNs2tm0z8obJ5YEgYVMlds5DkS54NggLPA9cQAZA6tBz1cUY/NZ35VKpBIAJfJ69TMWCRGQLWja4LVAioARBV8DMHGG\u002B\u002BSc9bz1dXFyc9RUcHR09lSuKgumVJLW6gtsC9xB6b4BUQD2/88P93a8ePLj3KJfLNc4ILiwsvPwIOvHZpx9uXzIHU9i/v3iAk1\u002BQfdelG5woP3x4u5jL5RrdM6\u002BFlPKc9Jy7srW9J2vrnrRK21LK\u002B1LKj2dmZlLtvv8AoKdgTW7XN1wAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-29T22:46:01.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteFileTool.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\DeleteFileTool.cs",
+              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\DeleteFileTool.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\DeleteFileTool.cs",
+              "RelativeToolTip": "Lavender.McpServer\\Tools\\Editing\\DeleteFileTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:45:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitySceneCommands.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnitySceneCommands.cs",
               "RelativeDocumentMoniker": "integrations\\unity\\Bridge\\UnitySceneCommands.cs",
               "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnitySceneCommands.cs",
               "RelativeToolTip": "integrations\\unity\\Bridge\\UnitySceneCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-22T21:54:50.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnityBridgeServer.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeServer.cs",
-              "RelativeDocumentMoniker": "integrations\\unity\\Bridge\\UnityBridgeServer.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeServer.cs",
-              "RelativeToolTip": "integrations\\unity\\Bridge\\UnityBridgeServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:54:48.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnityBridgeProtocol.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
-              "RelativeDocumentMoniker": "integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
-              "RelativeToolTip": "integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:54:46.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnityTools.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\UnityTools.cs",
-              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\UnityTools.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\UnityTools.cs",
-              "RelativeToolTip": "Lavender.McpServer\\Tools\\UnityTools.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:54:30.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ExternalOpenRequest.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\ExternalOpenRequest.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\ExternalOpenRequest.cs",
@@ -316,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LavenderOpenAsset.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\LavenderOpenAsset.cs",
               "RelativeDocumentMoniker": "integrations\\unity\\LavenderOpenAsset.cs",
@@ -329,7 +324,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "CreateFileTool.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
+              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
+              "RelativeToolTip": "Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T21:52:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteLinesTool.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
+              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
+              "RelativeToolTip": "Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:11:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindSymbolsTool.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
+              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
+              "RelativeToolTip": "Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:21:39.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnityTools.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\UnityTools.cs",
+              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\UnityTools.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\UnityTools.cs",
+              "RelativeToolTip": "Lavender.McpServer\\Tools\\UnityTools.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:54:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnityBridgeProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
+              "RelativeDocumentMoniker": "integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
+              "RelativeToolTip": "integrations\\unity\\Bridge\\UnityBridgeProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:54:46.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnityBridgeServer.cs",
+              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeServer.cs",
+              "RelativeDocumentMoniker": "integrations\\unity\\Bridge\\UnityBridgeServer.cs",
+              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\integrations\\unity\\Bridge\\UnityBridgeServer.cs",
+              "RelativeToolTip": "integrations\\unity\\Bridge\\UnityBridgeServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:54:48.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ExternalOpenChannel.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\ExternalOpenChannel.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\ExternalOpenChannel.cs",
@@ -341,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ApplyEditsTool.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\ApplyEditsTool.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\ApplyEditsTool.cs",
@@ -353,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "OpenFileTab.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\OpenFileTab.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\OpenFileTab.cs",
@@ -365,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "AgentSettings.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Application\\Agent\\AgentSettings.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Application\\Agent\\AgentSettings.cs",
@@ -377,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AgentRunner.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Application\\Agent\\AgentRunner.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Application\\Agent\\AgentRunner.cs",
@@ -389,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "main.py",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\backend\\app\\main.py",
               "RelativeDocumentMoniker": "backend\\app\\main.py",
@@ -401,19 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateFileTool.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
-              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
-              "RelativeToolTip": "Lavender.McpServer\\Tools\\Editing\\CreateFileTool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T21:52:18.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "LavenderMcpState.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\LavenderMcpState.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\LavenderMcpState.cs",
@@ -425,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\MainWindow.xaml",
               "RelativeDocumentMoniker": "src\\Lavender.App\\MainWindow.xaml",
@@ -436,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "FileToolExecution.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\FileToolExecution.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\FileToolExecution.cs",
@@ -448,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "OpenAIService.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\AI\\OpenAIService.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\AI\\OpenAIService.cs",
@@ -460,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ResponsesApiClient.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\AI\\ResponsesApiClient.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\AI\\ResponsesApiClient.cs",
@@ -472,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "EditorTheme.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\Rendering\\EditorTheme.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\Rendering\\EditorTheme.cs",
@@ -484,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\MainWindow.xaml.cs",
@@ -496,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -508,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "HeaderToImageConverter.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\Converters\\HeaderToImageConverter.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\Converters\\HeaderToImageConverter.cs",
@@ -520,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "EditorClassification.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Editing\\EditorClassification.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Editing\\EditorClassification.cs",
@@ -532,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Program.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Program.cs",
@@ -544,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "EditorAssistance.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\Rendering\\EditorAssistance.cs",
               "RelativeDocumentMoniker": "src\\Lavender.App\\Rendering\\EditorAssistance.cs",
@@ -556,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "editor.md",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\docs\\editor.md",
               "RelativeDocumentMoniker": "docs\\editor.md",
@@ -568,19 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "WriteLinesTool.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
-              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
-              "RelativeToolTip": "Lavender.McpServer\\Tools\\Editing\\WriteLinesTool.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T06:11:34.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "GitTools.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\GitTools.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\GitTools.cs",
@@ -592,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "CodeChunkService.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Chunking\\CodeChunkService.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Chunking\\CodeChunkService.cs",
@@ -604,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ProjectIndexTool.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\ProjectIndexTool.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\ProjectIndexTool.cs",
@@ -616,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "IndexingTimings.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\IndexingTimings.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\IndexingTimings.cs",
@@ -628,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "ProjectFileEditor.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\FileSystem\\ProjectFileEditor.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\FileSystem\\ProjectFileEditor.cs",
@@ -640,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\dungeon-crawler-2\\steam-game-1\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "..\\..\\dungeon-crawler-2\\steam-game-1\\Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -652,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -664,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "ReadFileTool.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\Editing\\ReadFileTool.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\Editing\\ReadFileTool.cs",
@@ -676,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "DiagnosticsTool.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\DiagnosticsTool.cs",
               "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\DiagnosticsTool.cs",
@@ -688,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\GlobalUsings.cs",
@@ -700,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "ProjectScanner.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\FileSystem\\ProjectScanner.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\FileSystem\\ProjectScanner.cs",
@@ -712,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "ProjectFileCreator.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\FileSystem\\ProjectFileCreator.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\FileSystem\\ProjectFileCreator.cs",
@@ -724,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -736,19 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "FindSymbolsTool.cs",
-              "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
-              "RelativeDocumentMoniker": "Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
-              "ToolTip": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
-              "RelativeToolTip": "Lavender.McpServer\\Tools\\FindSymbolsTool.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T18:21:39.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "testprompt1.txt",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\testprompt1.txt",
               "RelativeDocumentMoniker": "testprompt1.txt",
@@ -760,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ConversationModels.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Application\\Agent\\ConversationModels.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Application\\Agent\\ConversationModels.cs",
@@ -772,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "CodeSymbol.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Core\\DataTypes\\CodeSymbol.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Core\\DataTypes\\CodeSymbol.cs",
@@ -784,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "SearchResult.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Core\\Retrieval\\SearchResult.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Core\\Retrieval\\SearchResult.cs",
@@ -796,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "RoslynDiagnosticsProvider.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Diagnostics\\RoslynDiagnosticsProvider.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Diagnostics\\RoslynDiagnosticsProvider.cs",
@@ -808,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "CodeRelationshipIndexer.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationshipIndexer.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationshipIndexer.cs",
@@ -820,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "CodeRelationshipGraph.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationshipGraph.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationshipGraph.cs",
@@ -832,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "ProjectDependencyGraph.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Dependencies\\ProjectDependencyGraph.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Dependencies\\ProjectDependencyGraph.cs",
@@ -844,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "CodeRelationship.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationship.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Relationships\\CodeRelationship.cs",
@@ -856,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "SymbolIndex.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIndex.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIndex.cs",
@@ -868,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "SymbolIdentityService.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIdentityService.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIdentityService.cs",
@@ -880,7 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "IndexedProjectContext.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\IndexedProjectContext.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\IndexedProjectContext.cs",
@@ -892,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "SolutionLoader.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\FileSystem\\SolutionLoader.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\FileSystem\\SolutionLoader.cs",
@@ -904,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.App\\App.xaml",
               "RelativeDocumentMoniker": "src\\Lavender.App\\App.xaml",
@@ -915,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "SymbolIndexingService.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIndexingService.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\Symbol\\SymbolIndexingService.cs",
@@ -927,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "ProjectIndexer.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Infrastructure\\Indexing\\ProjectIndexer.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Infrastructure\\Indexing\\ProjectIndexer.cs",
@@ -939,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "CodeChunk.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Core\\DataTypes\\CodeChunk.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Core\\DataTypes\\CodeChunk.cs",
@@ -951,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "PromptBuilder.cs",
               "DocumentMoniker": "C:\\Users\\nicks\\OneDrive\\Desktop\\lavender\\Lavender\\src\\Lavender.Application\\Chat\\PromptBuilder.cs",
               "RelativeDocumentMoniker": "src\\Lavender.Application\\Chat\\PromptBuilder.cs",
@@ -963,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "TODO.txt",
               "DocumentMoniker": "C:\\Users\\nicks\\source\\repos\\Lavender\\TODO.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Lavender\\TODO.txt",
